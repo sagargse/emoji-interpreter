@@ -9,7 +9,8 @@ const emojiDictionary = {
   "🏏": "Cricket",
   "🏸": "Badminton",
   "🏓": "Ping Pong",
-  "🥏": "Flying Disc"
+  "🥏": "Flying Disc",
+  "🎲": "Game Dice"
 };
 
 var emojisWeKnow = Object.keys(emojiDictionary);
